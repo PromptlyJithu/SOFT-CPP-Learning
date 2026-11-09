@@ -118,7 +118,7 @@ int main()
         if (x == 'n')
         {
             isTrue = false;
-            cout << "See u soon xoxo >.<";
+            cout << "See u soon xoxo >.<" << endl;
         }
     }
 }
